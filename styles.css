@@ -1,0 +1,28 @@
+#rowDiv{
+	margin: auto;
+	text-align: center;
+	width: 60%;
+}
+
+input[type="text"]{
+	height: 40px;
+	font-size: 20px;
+}
+
+#BUTTONID{
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#show{
+	margin: auto;
+	width: 60%;
+}
+
+#errorcity{
+	width: 50%;
+	font-size: 25px;
+	text-align: center;
+	margin: auto;
+}
