@@ -170,6 +170,7 @@ nav ul li a:hover {
 	text-align: center;
 }
 
+
 	#jumboHead h2{
 		color: #000;
 		margin: 0 0 2em 0;
@@ -207,3 +208,27 @@ nav ul li a:hover {
 			margin-bottom: 2em;
 			font-size: 18px;
 	}
+
+	.buttons{
+		background-color: rgba(255,255,255,0.1);
+		font-size:40px;
+		border-radius:12px;
+		border: 1px solid #fff;
+		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+		width:40%;
+		text-align:center;
+		margin:auto;
+}
+.buttons a{
+	color:#fff;
+	padding:5px 5px 5px 5px;
+	text-align:center;
+	font-size:25px;
+	
+	
+}
+.buttons:hover {
+    background-color: rgba(255,255,255,0.2);
+		font-size:40px;
+    		border: 2px solid #000;
+}
