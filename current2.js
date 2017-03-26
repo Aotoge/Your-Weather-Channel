@@ -47,5 +47,5 @@ function wait(){
 }
 
 function show(avg){
-	return 	"<h3><strong><br />Average Temperature</strong>: "+ avg +"&deg;</h3>";
+	return 	"<h3><strong><br />Average Temperature</strong>: "+ avg +"&deg;C</h3>";
 }
