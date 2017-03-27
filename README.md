@@ -11,7 +11,7 @@ The user may decide to use either of the functionalities:
 	
         Bonus:    Find the average of the current temperature at four different locations.
 	
-	 News:     Provides News related to Weather(Still working on backend to provide LIVE news)
+        News:     Provides News related to Weather(Still working on backend to provide LIVE news)
                   Though news uploaded on it is of 27 March 2017.
        
 
