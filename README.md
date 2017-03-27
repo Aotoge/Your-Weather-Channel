@@ -5,7 +5,7 @@ This is a basic Webapp which utilises the *openweatherchannel API*.
 
 The user may decide to use either of the functionalities:
 
-	Home:     View the current weather information of the entered location.
+        Home:     View the current weather information of the entered location.
     
         Weather:  View detailed weather report of entered location
 	
