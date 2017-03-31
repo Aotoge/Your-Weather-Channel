@@ -211,7 +211,7 @@ nav ul li a:hover {
 
 	.buttons{
 		background-color: rgba(255,255,255,0.1);
-		font-size:40px;
+		font-size:30px;
 		border-radius:12px;
 		border: 1px solid #fff;
 		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -221,7 +221,7 @@ nav ul li a:hover {
 }
 .buttons a{
 	color:#fff;
-	padding:5px 5px 5px 5px;
+	padding:4px 4px 4px 4px;
 	text-align:center;
 	font-size:25px;
 	
@@ -229,6 +229,6 @@ nav ul li a:hover {
 }
 .buttons:hover {
     background-color: rgba(255,255,255,0.2);
-		font-size:40px;
+		font-size:30px;
     		border: 2px solid #000;
 }
