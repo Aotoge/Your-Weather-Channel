@@ -19,6 +19,5 @@ Input: Single query in lowercase/Sentence case per input field
 
 
 
-NOTE:
-Depending on your browser the ** *Mixed active content* ** used in the pages maybe blocked. In which case you may try it out locally.
+
 Made with: HTML, CSS, Javascript and JQuery

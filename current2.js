@@ -9,10 +9,10 @@ $(document).ready(function(){
 		var city4 = $("#INPUTID4").val();
 		var avg=0;
 
-		var urls = ['http://api.openweathermap.org/data/2.5/weather?q='+ city1 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
-		'http://api.openweathermap.org/data/2.5/weather?q='+ city2 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
-		'http://api.openweathermap.org/data/2.5/weather?q='+ city3 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
-		'http://api.openweathermap.org/data/2.5/weather?q='+ city4 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244'];
+		var urls = ['https://api.openweathermap.org/data/2.5/weather?q='+ city1 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
+		'https://api.openweathermap.org/data/2.5/weather?q='+ city2 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
+		'https://api.openweathermap.org/data/2.5/weather?q='+ city3 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244',
+		'https://api.openweathermap.org/data/2.5/weather?q='+ city4 + '&units=metric' + '&APPID=385d17c855f75959504cef74ca36d244'];
 
 		$.each(urls, function(i,u){ 
      		$.ajax(u, 
